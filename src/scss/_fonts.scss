@@ -1,4 +1,12 @@
 @font-face {
-    font-family: '';
-    src: url('') format('');
+    font-family: 'Alpino';
+    src: url('../fonts/Alpino-Regular.ttf') format('truetype');
+    font-weight: 400;
 }
+
+@font-face {
+    font-family: 'Alpino-bold';
+    src: url('../fonts/Alpino-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
